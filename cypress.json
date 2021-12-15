@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://beta.workmotion.com",
+    "integrationFolder": "cypress/integration/",
+    "video": true,
+    "screenshots": true,
+    "retries": {
+      "runMode": 3,
+      "openMode": 3
+    },
+    "defaultCommandTimeout": 15000
+}

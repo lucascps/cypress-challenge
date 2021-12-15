@@ -1,0 +1,12 @@
+{
+  "country" : "Brazil",
+  "first_name" : "Test First Name",
+  "last_name" : "Test Last Name",
+  "job_title" : "QA Engineer",
+  "job_description" : "Job Description for QA Engineer",
+  "contract_start_date" : "13-12-2021",
+  "base_salary" : "10000",
+  "talentEmail" : "test@test.com",
+  "statusPending" : "Pending",
+  "statusDone" : "Done"
+}
